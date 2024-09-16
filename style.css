@@ -1,4 +1,6 @@
 .centre-div{
     margin:auto;
     vertical-align: middle;
+    color:red;
+    background-color:black;
 }
